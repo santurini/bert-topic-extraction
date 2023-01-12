@@ -7,3 +7,7 @@ As a baseline methods were used mini-batch K-means and SVD and additionally also
 Here are the results obtained after the topic reduction:
 
 ![baseline](https://user-images.githubusercontent.com/91251307/212086606-7ceec068-a97c-4c22-aca9-dccaeb912f78.png)
+
+## Sentence Transformers
+
+For this part instead of the TF-IDF matrix were used Sentence Transformers
